@@ -102,6 +102,8 @@ BIBLIOGRAFÍA.
 
 - Thomas L. Floyd. (2007). Principios de circuitos electrónicos. PEARSON EDUCACIÓN, México
 
+- Zapata, F. (2019, agosto 20). Onda senoidal: características, partes, cálculo, ejemplos. Lifeder. https://www.lifeder.com/onda-senoidal/
+
 
 
 
