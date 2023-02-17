@@ -84,17 +84,16 @@ _______________________________________________
 
 CONCLUSIONES.
 
-Se verificó de manera correcta el comportamiento de los capacitores e inductores en conjunto con una resistencia para los circuitos con DC y AC, mediante la toma de mediciones de voltaje y analizando la onda sinusoidal con respecto a valores pico, tiempo, periódo y ciclo.
+- Se comprendió como usar correctamente el osciloscopio identificando como mover las perillas correspondientes a fin de poder ver la onda senoidal de una mejor manera en la que se puedan tomar más fácilmente sus datos gráficos.
 
-Con la ayuda del osciloscopio de pudo hallar valores de ondas en el circuito y además se logró identificar capacitores e inductancias en serie o paralelo.
+- Se logró entender los datos representados en el osciloscopio, que nos permiten identificar cuales son los valores de Voltaje pico o voltaje pico pico, valores como del periodo y frecuencia, además mediante un multímetro se logró analizar el valor de Voltaje rms.
 
-Mediante un video explicativo se llego a desarrollar conocimientos y comprender el tema con mejor amplitud, poniéndolo en práctica.
+- Mediante un video explicativo se llego a desarrollar conocimientos y comprender el tema con mejor amplitud, poniéndolo en práctica.
 
 BIBLIOGRAFÍA.
 
 - Thomas L. Floyd. (2007). Principios de circuitos electrónicos. PEARSON EDUCACIÓN, México
 
-- 
 
 
 
