@@ -26,12 +26,75 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL.
 
 MAPA CONCEPTUAL.
 
+![image](https://user-images.githubusercontent.com/117920423/219552793-7ffc8097-49ca-43f3-906a-b039fa853e6a.png)
+
+3. EXPLICACIÓN DEL PROCEDIMIENTO.
+
+Los materiales necesarios para realizar el laboratorio 8 son:
+
+![image](https://user-images.githubusercontent.com/117920423/219552932-a0e88ad7-d9db-413a-b56f-c8eb3aa6b466.png)
+
+3.1 Se construyó el circuito en el laboratorio virtual Multisim.
+
+![image](https://user-images.githubusercontent.com/117920423/219553031-add18bc2-45ab-43e8-aa08-41eed5745d52.png)
+
+3.2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
+
+3.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
 
 
+3.4. Responda las siguientes preguntas:
+
+¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+___________
+
+¿En qué valor está posicionada la perilla VOLTS/DIV? ___________
+
+¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+__________
+
+¿En qué valor está posicionada la perilla TIME/DIV? ___________
+
+8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
+del osciloscopio?
+
+Amplitud de voltaje: ____________(V)
+
+Periodo: ____________(s)
+
+8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
+salida.
+
+f: _____________(Hz)
+
+ω: ____________(rad/s)
+
+8.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
+
+8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+
+¿Coinciden? _______ ¿Por qué?
+
+_______________________________________________
+
+5.VIDEO.
 
 
 
+CONCLUSIONES.
+
+Se verificó de manera correcta el comportamiento de los capacitores e inductores en conjunto con una resistencia para los circuitos con DC y AC, mediante la toma de mediciones de voltaje y analizando la onda sinusoidal con respecto a valores pico, tiempo, periódo y ciclo.
+
+Con la ayuda del osciloscopio de pudo hallar valores de ondas en el circuito y además se logró identificar capacitores e inductancias en serie o paralelo.
+
+Mediante un video explicativo se llego a desarrollar conocimientos y comprender el tema con mejor amplitud, poniéndolo en práctica.
+
+BIBLIOGRAFÍA.
+
+- Thomas L. Floyd. (2007). Principios de circuitos electrónicos. PEARSON EDUCACIÓN, México
+
+- 
 
 
 
