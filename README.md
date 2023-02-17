@@ -88,7 +88,7 @@ Porque en el punto 3.4.5 estamos tomando en cuenta el valor pico: Vp = 6.83 V de
 
 5.VIDEO.
 
-
+https://youtube.com/watch?v=HPfejm5urUI&si=EnSIkaIECMiOmarE
 
 CONCLUSIONES.
 
