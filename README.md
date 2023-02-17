@@ -46,23 +46,23 @@ Los materiales necesarios para realizar el laboratorio 8 son:
 
 3.4. Responda las siguientes preguntas:
 
-3.4.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+- 3.4.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
 3.415 Divisiones por cuadro
 
-3.4.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?
+- 3.4.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
 2 V
 
-3.4.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+- 3.4.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
 Un ciclo completo abarca 4 divisiones por cuadrado
 
-3.4.4 ¿En qué valor está posicionada la perilla TIME/DIV?
+- 3.4.4 ¿En qué valor está posicionada la perilla TIME/DIV?
 
 100 µs
 
-3.4.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+- 3.4.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
 Amplitud de voltaje: 6.83(V)
 
@@ -70,15 +70,15 @@ Periodo:  400(µs)
 
 ![image](https://user-images.githubusercontent.com/117920423/219555790-20e13f64-e21c-432a-a614-1b2feb912d2f.png)
 
-3.4.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+- 3.4.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
 ![image](https://user-images.githubusercontent.com/117920423/219555985-636885c7-8baf-49aa-a107-fb8b42a52ef3.png)
 
-3.4.7 Con el multímetro digital mida el voltaje de salida en RL: 4.861 V
+- 3.4.7 Con el multímetro digital mida el voltaje de salida en RL: 4.861 V
 
 ![image](https://user-images.githubusercontent.com/117920423/219556073-24bb6f0c-bbf1-4a5f-9ba1-7d24fc923f62.png)
 
-3.4.8 Compare el voltaje medido en el punto 3.4.5 y el obtenido en el punto 3.4.7
+- 3.4.8 Compare el voltaje medido en el punto 3.4.5 y el obtenido en el punto 3.4.7
 
 ¿Coinciden? No coinciden ¿Por qué?
 
