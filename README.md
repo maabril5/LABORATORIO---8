@@ -46,37 +46,45 @@ Los materiales necesarios para realizar el laboratorio 8 son:
 
 3.4. Responda las siguientes preguntas:
 
-¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
-___________
+3.4.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-¿En qué valor está posicionada la perilla VOLTS/DIV? ___________
+3.415 Divisiones por cuadro
 
-¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
-__________
+3.4.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
-¿En qué valor está posicionada la perilla TIME/DIV? ___________
+2 V
 
-8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
-del osciloscopio?
+3.4.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-Amplitud de voltaje: ____________(V)
+Un ciclo completo abarca 4 divisiones por cuadrado
 
-Periodo: ____________(s)
+3.4.4 ¿En qué valor está posicionada la perilla TIME/DIV?
 
-8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
-salida.
+100 µs
 
-f: _____________(Hz)
+3.4.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-ω: ____________(rad/s)
+Amplitud de voltaje: 6.83(V)
 
-8.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
+Periodo:  400(µs)
 
-8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+![image](https://user-images.githubusercontent.com/117920423/219555790-20e13f64-e21c-432a-a614-1b2feb912d2f.png)
 
-¿Coinciden? _______ ¿Por qué?
+3.4.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-_______________________________________________
+![image](https://user-images.githubusercontent.com/117920423/219555985-636885c7-8baf-49aa-a107-fb8b42a52ef3.png)
+
+3.4.7 Con el multímetro digital mida el voltaje de salida en RL: 4.861 V
+
+![image](https://user-images.githubusercontent.com/117920423/219556073-24bb6f0c-bbf1-4a5f-9ba1-7d24fc923f62.png)
+
+3.4.8 Compare el voltaje medido en el punto 3.4.5 y el obtenido en el punto 3.4.7
+
+¿Coinciden? No coinciden ¿Por qué?
+
+Porque en el punto 3.4.5 estamos tomando en cuenta el valor pico: Vp = 6.83 V de la onda senoidal a comparación del punto 3.4.7 que encontramos el valor rms: 
+
+![image](https://user-images.githubusercontent.com/117920423/219556369-892c645b-c9fb-49b9-9f09-2ae2ab5124e5.png)
 
 5.VIDEO.
 
