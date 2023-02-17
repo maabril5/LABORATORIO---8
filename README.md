@@ -42,7 +42,7 @@ Los materiales necesarios para realizar el laboratorio 8 son:
 
 3.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
-
+![image](https://user-images.githubusercontent.com/117920423/219555101-0ec4daac-699b-4f56-a430-3441a4ff5bd0.png)
 
 3.4. Responda las siguientes preguntas:
 
